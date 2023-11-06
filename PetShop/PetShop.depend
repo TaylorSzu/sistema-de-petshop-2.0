@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1699232291 source:c:\users\taylo\downloads\projeto_c\petshop\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1699232291 c:\users\taylo\downloads\projeto_c\petshop\resource.h
+
+1699232347 source:c:\users\taylo\downloads\projeto_c\petshop\main.cpp
+	<windows.h>
+	<commctrl.h>
+	<stdio.h>
+	"resource.h"
+
